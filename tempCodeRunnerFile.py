@@ -1,1 +1,1 @@
-n = 10
+    print(f"{flip_index + 1}: {angle}")
